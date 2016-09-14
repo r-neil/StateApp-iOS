@@ -24,4 +24,4 @@ var createAPIStr: String {return "https://stateapp.herokuapp.com/" + self}
 Run App in Xcode Simulator and on your phone.
 
 #Example Screen Shot
-![Screenshot](https://github.com/r-neil/StateApp-iOS/img/screenshot.png)
+![Screenshot](https://github.com/r-neil/StateApp-iOS/Img/screenshot.png)
